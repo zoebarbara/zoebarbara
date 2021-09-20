@@ -41,6 +41,6 @@
 <a href="https://codepen.io/zoesita/pen/bGRMoWK" target="_blank"> <img src="https://github.com/zoebarbara/zoebarbara/blob/main/rating.gif" width="45%" height='auto'/></a> 
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoesita&show_icons=true&locale=en&layout=compact" alt="zoesita" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoebarbara&show_icons=true&locale=en&layout=compact" alt="zoebarbara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoesita&show_icons=true&locale=en" alt="zoesita" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoebarbara&show_icons=true&locale=en" alt="zoebarbara" /></p>
