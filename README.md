@@ -3,7 +3,7 @@
 ## Hi there! I'm **Zoe** 👋🏼 👩🏼‍💻
 
 ⚡ Multi-disciplinary digital creative.  
-⚡ I belive technology can help us make a better a world 🌏   
+⚡ Technology can help us make a better a world 🌏   
 ⚡ Graduated in **Graphic Design** 🎓  
 ⚡ **Full Stack Course** in Netmind.  
 ⚡ **Front End Bootcamp** in Clover with [Cristiam da Silva](https://github.com/cristiam86)  
