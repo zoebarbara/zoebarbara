@@ -13,7 +13,7 @@
   
    
    
-## Skillset
+## 🛠 Skillset
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
@@ -31,9 +31,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>
 </p>
 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/). 
+
+
+## Examples of Work
+codepen[bGRMoWK][350]
+![alt-text](https://codepen.io/zoesita/pen/bGRMoWK)
+https://codepen.io/zoesita/pen/bGRMoWK
+
 ## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoesita&show_icons=true&locale=en&layout=compact" alt="zoesita" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoesita&show_icons=true&locale=en" alt="zoesita" /></p>
-
-## Examples of Work
-
