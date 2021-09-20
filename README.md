@@ -41,6 +41,14 @@
 ## Examples of Work
 <a href="https://codepen.io/zoesita/pen/bGRMoWK" target="_blank"> <img src="https://github.com/zoebarbara/zoebarbara/blob/main/rating.gif" width="45%" height='auto'/></a> 
 <a href="https://codepen.io/zoesita/full/oNwddOg" target="_blank"> <img src="https://github.com/zoebarbara/zoebarbara/blob/main/Stripes.gif" width="45%" height='auto'/></a> 
+<a href="https://codepen.io/zoesita/full/oNwddOg" target="_blank"> <img src="https://github.com/zoebarbara/zoebarbara/blob/main/PONG.gif" width="45%" height='auto'/></a> 
+<a href="https://codepen.io/zoesita/full/oNwddOg" target="_blank"> <img src="https://github.com/zoebarbara/zoebarbara/blob/main/Beers.gif" width="45%" height='auto'/></a> 
+<a href="https://codepen.io/zoesita/full/oNwddOg" target="_blank"> <img src="https://github.com/zoebarbara/zoebarbara/blob/main/RPS_example.gif" width="45%" height='auto'/></a> 
+
+
+
+
+
 ## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoebarbara&show_icons=true&locale=en&layout=compact" alt="zoebarbara" /></p>
 
