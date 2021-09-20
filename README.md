@@ -1,4 +1,4 @@
-![alt-text](https://github.com/zoesita/zoesita/1.png)
+![alt-text](https://github.com/zoesita/zoesita/blob/main/1.png)
 ### Hi there i'm Zoe👋
 
 <!--
