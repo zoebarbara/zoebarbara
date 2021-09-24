@@ -47,6 +47,6 @@
 
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoebarbara&show_icons=true&locale=en&theme=vue-dark&show_icons=true" alt="zoebarbara" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoebarbara&show_icons=true&locale=en&theme=vue-dark&show_icons=true" alt="zoebarbara" width="45%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoebarbara&show_icons=true&locale=en&&theme=vue-dark" alt="zoebarbara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoebarbara&show_icons=true&locale=en&&theme=vue-dark" alt="zoebarbara" width="45%" /></p>
