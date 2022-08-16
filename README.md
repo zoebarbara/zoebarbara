@@ -7,7 +7,7 @@
 ⚡ Technology for a positive footprint in the 🌏   
 ⚡ Graduated in **Graphic Design** 🎓  
 ⚡ **Full Stack Course** in Netmind.  
-⚡ **Front End Bootcamp** in Clover with [Cristiam da Silva](https://github.com/cristiam86)  
+⚡ **Front End Bootcamp** in CloverLab.
 ⚡ Using my design skills to kill it coding (or die trying!)💀  
 ⚡ Learning and improving my **Front End Skills**.  
 ⚡ Focused on  **JavScript, React & Redux** 😍. 
